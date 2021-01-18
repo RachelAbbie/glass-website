@@ -1,0 +1,1 @@
+This a simple glass website using HTML and CSS.
